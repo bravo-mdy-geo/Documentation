@@ -1,0 +1,28 @@
+Abstract 
+========
+Electronic Thesis and Dissertation System is a work submitted in support of cadidature for a doctorate or master's degree.
+Electronic version of theses and dissertations are called ETDs.
+This system is kind of Educational website.
+In our system ,users can search theses and dissertations of CU(Mdy) by Year , and can see abstract of the thesis , author name , supervisor name and the major.
+Users can also search  books and theses of octago university and Global ETD for more references.
+For Admin Panel, admins can insert data into database , delete data and retrieve data for database .
+Users can use our system with both smart phones and computers.
+For Front End , the system was implemented using material design(HTML,CSS).
+For Back End , this system was implemented using javascript and jQuery .
+And we also used Firebase Hosting and Database.
+
+
+Objectives
+=========
+
+-To save time
+-Helping students be better prepared as knowledge workers
+-To develop university digital library services and infrastructure
+-Increasing sharing and collaboration among university and students
+-Enhancing access to university research
+
+
+
+
+ 
+

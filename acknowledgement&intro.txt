@@ -1,0 +1,38 @@
+ACKNOWLEDGEMENT
+
+	First of all, we would like to express our very great appreciation to U Kyaw Zwa Soe ,
+ Rector of Computer University (Mandalay).
+
+	We also greatly thank to  Dr. San San Tin, Pro-Rector of Computer University (Mandalay).
+
+	And sincerely thank to our teacher Dr. Aye Aye Chaw, Associate Professor,
+ Head of Research and Development Department.
+
+	We also deeply thank to our director U Ravi Chhabra, CEO of GMIT, 
+for his patient training to gain experience in modern software development and 
+ trust to give us.
+
+	And then greatly thank to our supervisor Dr. Ei Ei Mon, Computer University (Mandalay),
+ for her valuable guidance and patient supervisor, presentation and correctness of the project.
+
+	We especially thanks to our parents and all our friends for providing encouragement and 
+giving us a great support during internship program.	
+
+==========================================================================================================================						
+                                                                          
+1.1	Introduction
+
+	Nowadays, modern technologies are sharply developed. 
+And most of the people widely use internet with mobile phones and computers for various purposes.
+ Most of the universities around the world use online libraries.
+ In that libraries, students can search books at every time and everywhere. It can save time and energy.
+
+	Our project ETD (Electronic thesis and dissertation ) , it mainly focuses to search easily theses 
+and dissertations of  Computer University (Mandalay)  at one place. In our project, students can search theses  
+with their abstracts from 2008 to 2016. 
+	In our ETD project, students can also search theses reference books and  global theses and dissertations
+ from other universities around the world for various fields and major .
+
+	The aims of our ETD project is  to save time and energy , to reduce paper works and  
+familiar with electronic library. 
+

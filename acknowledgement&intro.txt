@@ -35,4 +35,19 @@ with their abstracts from 2008 to 2016.
 
 	The aims of our ETD project is  to save time and energy , to reduce paper works and  
 familiar with electronic library. 
+=============================================================================================================================
+conclusion 
+	
+	This system provides users to search easily CU (Mdy) theses from 2008-2016 with abstract .
+Our project has a weakness. It doesn’t show full data of all thesis because our data are collected from CU (Mdy)
+ library and there is no soft copy of theses. 
+	But we make our ETD system to find global theses and dissertations for more reference. 
+Users can search 5,111,718 electronic theses and dissertations at Global ETD site where can find any fields that you want .
+	At admin panel, admin can create, retrieve, update and delete data from firebase database. 
+And also do permissions for login users.
+	For our project future plan, we aim to do more useful site for our university.
+We want to make from ETD mini project to CU (Mdy) e-Library.
+
+
+	
 
